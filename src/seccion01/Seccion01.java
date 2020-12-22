@@ -4,6 +4,6 @@ package seccion01;
  
 public class Seccion01 {
     public static void main(String[] args) {
-        System.out.println("HOLA MUNDO =)");
+        System.out.println("HOLA MUNDO =D");
     }    
 }
